@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep017_000.yaml, hash: 'sha256:8d8b5752141c140067b2a0410a582d0e49b39447a496d93ad7f80d424e384b60'}
+  - {seq: 0, filename: KR3ep017_000.yaml, hash: 'sha256:0c9807883ba840740c8fbd099463db3264fc1e07456b441177ce86733fbdc2f5'}
   - {seq: 1, filename: KR3ep017_001.yaml, hash: 'sha256:282d5a73640f692a431211896161539e37c615757cb0d752b619b408b41383d2'}
   - {seq: 2, filename: KR3ep017_002.yaml, hash: 'sha256:e74ad3d552daf3e3a1378ba2ba0cafc569c9e50fb66f83fbc82fb1cb325149a8'}
   - {seq: 3, filename: KR3ep017_003.yaml, hash: 'sha256:64d83a44ad2f8b64376dc0003124fde74783b35a77329c650cfccc83861d4c67'}
@@ -54,9 +54,9 @@ assets:
   - {seq: 34, filename: KR3ep017_034.yaml, hash: 'sha256:5391c09609677f2e17b5323d2d23413f4985304557840cced1cc02024add8ab4'}
   - {seq: 35, filename: KR3ep017_035.yaml, hash: 'sha256:c0ae9f8be1e542df219abde99abad478f2c4426d01840b988b931310cfbc4ede'}
   - {seq: 36, filename: KR3ep017_036.yaml, hash: 'sha256:98a240c1ae20602b5b98bbb4bfca2d9b0dbb9f0a8087e8b765ef65598d033998'}
-  - {seq: 0, filename: KR3ep017_000.yaml, hash: 'sha256:8d8b5752141c140067b2a0410a582d0e49b39447a496d93ad7f80d424e384b60'}
+  - {seq: 0, filename: KR3ep017_000.yaml, hash: 'sha256:0c9807883ba840740c8fbd099463db3264fc1e07456b441177ce86733fbdc2f5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep017_000.markers.yaml, hash: 'sha256:8463c7e59d79d5770350bb0003e942d4af2fe378d2c0e7165a1ac19b1a99e235'}
+  - {seq: 0, role: markers, filename: assets/KR3ep017_000.markers.yaml, hash: 'sha256:696c215add1d2187b44492f2a88cbd312d303dd482e6233f4b1216c5ae662e72'}
   - {seq: 1, role: markers, filename: assets/KR3ep017_001.markers.yaml, hash: 'sha256:9321670b0c33d8b7bf2a7e1e2ab3c4d34939e36c487eb14b22e787d6ee587bad'}
   - {seq: 2, role: markers, filename: assets/KR3ep017_002.markers.yaml, hash: 'sha256:55b797c9870b2d2794a3462f1c017513b0fc960a723d43e675ea11b102e9d488'}
   - {seq: 3, role: markers, filename: assets/KR3ep017_003.markers.yaml, hash: 'sha256:38f82b52ee30a5be7bf090c4e538c9afe9a647a4ef1df81d9cefa993a61e207e'}
@@ -98,7 +98,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep017_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 580
   label: 序
@@ -108,7 +108,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep017_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 580
     - 923
   label: 王序
@@ -118,7 +118,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep017_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 923
     - 1350
   label: 重刊續名醫類案序
@@ -4028,7 +4028,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep017_jc_000-d41.h1s1
     span:
-    - front
+    - body
     - 0
     - 498
   label: 附柳州遺稿序
@@ -4039,8 +4039,8 @@ table_of_contents:
     marker_id: KR3ep017_jc_000-d42.h1s1
     span:
     - body
-    - 0
-    - 266
+    - 498
+    - 764
   label: 附先友記一則
   type: section
   level: 1
@@ -4049,12 +4049,12 @@ table_of_contents:
     marker_id: KR3ep017_jc_000-d43.h1s1
     span:
     - body
-    - 266
-    - 480
+    - 764
+    - 978
   label: 續名醫類案書後
   type: section
   level: 1
-hash: sha256:876db2334d0a4d21b06c1168acd5a02a35a3c07adddba27ba07017e392643c86
+hash: sha256:9249c4ab0c66898498712f7b2a8e4f0d3a5fd85447c348db352c51e7cba80255
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
